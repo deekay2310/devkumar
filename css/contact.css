@@ -1,0 +1,54 @@
+#container{
+	text-align: center;
+	margin-top: 10px;
+}
+
+#profilePicture{
+	border-radius: 50%;
+	border: 4.5px solid white;
+}
+
+span{
+	padding: 25px;
+}
+
+a{
+	color: inherit;
+	padding: 25px;
+}
+
+#details, #additionalDetails{
+	font-size: 48px;
+	padding-top: 15.725px;
+}
+
+#query{
+	text-align: center;
+}
+
+.form-group{
+	padding-left: 250px;
+	padding-right: 250px;
+}
+
+#submit{
+	font-weight: bold;
+}
+
+#left{
+	border-left: 2px solid;
+	padding-left: 7.25px;
+}
+
+#right{
+	border-right: 2px solid;
+	padding-right: 7.25px;
+}
+
+.fa { font-size: 60px; }
+
+@media only screen and (max-width: 600px) {
+  #container {
+    color: white;
+  }
+}

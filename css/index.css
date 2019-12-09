@@ -1,0 +1,33 @@
+.bg{
+	background-image: url("media/cover.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+#container-fluid{
+	margin: 15% 30%;
+}
+
+#menu{
+	font-size: 20px;
+	text-shadow: 2px 2px #ffffff;
+}
+
+html{
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+#banner{
+	margin-left: 500px;
+	margin-top: 220px;
+}
+
+big{
+	font-size: 7.5vw;
+}
+
+a{
+	padding: 25px;
+}
