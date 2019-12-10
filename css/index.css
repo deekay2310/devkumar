@@ -1,7 +1,8 @@
 .bg{
 	background-image: url("media/cover.jpg");
 	background-size: cover;
-	width: 100%;
+	width: auto;
+	height: auto;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 
