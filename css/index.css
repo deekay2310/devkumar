@@ -33,3 +33,9 @@ big{
 a{
 	padding: 25px;
 }
+
+@media only screen and (max-width: 600px) {
+	.bg {
+	  background-image: url("media/cover_for_mobile.png");
+	}
+  }
