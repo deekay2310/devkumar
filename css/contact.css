@@ -52,3 +52,8 @@ a{
     color: white;
   }
 }
+
+#menu{
+	font-size: 20px;
+	text-shadow: 2px 2px #ffffff;
+}
